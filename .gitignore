@@ -1,6 +1,0 @@
-/build*/
-/dist/
-/Output/
-/third_party/asio-sdk/
-*.user
-*.suo
